@@ -60,6 +60,6 @@ You can run the different analysis scripts as follows:
     python sub_marks_analysis.py 
     ```
 3. **To calculate and display pass\fail ratio:**
-  ```bash
+      ```bash
     python pass_fail_ratio.py 
     ```
