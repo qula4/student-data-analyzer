@@ -89,8 +89,6 @@ You can run the different analysis scripts as follows:
 
 ## Complete Project Documentation
 For detailed technical implementation, code analysis, and comprehensive project overview, see the [complete project report](./student-data-analyzer.pdf).
-<!-- end list -->
-    [Download Full Project Report (PDF)](./student-data-analyzer.pdf)
 
 
 **Built with Python • Pandas • Matplotlib**
