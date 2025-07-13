@@ -10,9 +10,10 @@ This Python project is designed to organize, analyze, and visualize student acad
 * **Visual Representation:** Generates a clear bar chart to visually present the top academic performers.
 
 ## Technologies Used
-* Python 3.x
+
+* Python
 * Pandas (https://pandas.pydata.org/) -library for data manipulation and analysis
-* Matplotlib (https://matplotlib.pydata.org/) -a python 2D plotting library
+* Matplotlib (https://matplotlib.pydata.org/) - a python 2D plotting library
 
 ## How to Run the Project (For Recruiters/Your Future Self)
 
