@@ -4,6 +4,10 @@
 Python project designed to organize, analyze, and visualize student academic performance data.
 
 
+## Complete Project Documentation
+For detailed technical implementation, code analysis, and comprehensive project overview, see the [complete project report](./student-data-analyzer.pdf)
+
+
 ## Tech Stack
 * Python 3.9+
 * Pandas 1.3+ (https://pandas.pydata.org/) -library for data manipulation and analysis
@@ -85,10 +89,6 @@ You can run the different analysis scripts as follows:
       ```bash
     python pass_fail_ratio.py 
     ```
-
-
-## Complete Project Documentation
-For detailed technical implementation, code analysis, and comprehensive project overview, see the [complete project report](./student-data-analyzer.pdf).
 
 
 **Built with Python • Pandas • Matplotlib**
