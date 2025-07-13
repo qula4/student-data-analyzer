@@ -14,7 +14,7 @@ passing_mark = 65
 # This assumes marks for 'Math', 'Science', 'History', 'English', 'Computer' are present.
 # Adjusts the list of subjects if the CSV has different columns for marks.
 if 'Average_Mark' not in student_data_df.columns:
-    subject_columns = ['Math', 'Science', 'History', 'English', 'Computer'] # Customize these subjects based on CSV
+    subject_columns = ['Math', 'Science', 'History', 'English', 'Computer'] # Customizes these subjects based on CSV
     # Ensures all required subjects columns exists before calculating average
     for col in subject_columns:
         if col not in student_data_df.columns:
