@@ -22,7 +22,7 @@ Make sure you have Python 3.x installed on your system.
 ### Setup (Local Environment)
 1. **Clone this repository:**
     ```bash
-    git clone [https://github.com/qula4/student-data-analysis.git](https://github.com/qula4/student-data-analysis.git)
+    git clone [https://github.com/qula4/student-data-analysis.git](https://github.com/qula4/student-data-analyzer.git)
     ```
 
 2. **Navigate into the project directory:**
@@ -48,7 +48,7 @@ Make sure you have Python 3.x installed on your system.
     ```
 
 ### Running the Script
-1. Ensure you are in the project's root directory (`student-data-analysis`) with the virtual environment activated.
+1. Ensure you are in the project's root directory (`student-data-analyzer`) with the virtual environment activated.
 2. Run the main script for top scorers (adjust if your file name is different):
     ```bash
     python top_scorers_analysis.py 
